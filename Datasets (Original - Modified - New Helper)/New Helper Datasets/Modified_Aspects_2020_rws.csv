@@ -1,0 +1,1508 @@
+ResponseID,MaxBestAspect,Best_Aspects,MaxWorstAspect,Worst_Aspects
+1,3,Managing my personal commitments,2,The number of hours  I work
+2,3,My work-life balance,3,My on-the-job learning opportunities
+3,3,The number of hours  I work,2,Preparing for work and commuting
+4,3,My work-life balance,2,My on-the-job learning opportunities
+5,2,Preparing for work and commuting,3,My on-the-job learning opportunities
+6,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+7,3,My daily expenses,2,The number of hours  I work
+8,2,My job satisfaction,2,The number of hours  I work
+9,3,My mental wellbeing,3,The number of hours  I work
+10,3,Preparing for work and commuting,3,My working relationships
+11,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+12,3,My personal relationships,3,Preparing for work and commuting
+13,3,My daily expenses,3,My working relationships
+14,2,My work-life balance,3,My opportunities to socialise
+15,2,My work-life balance,3,My working relationships
+16,3,Preparing for work and commuting,3,The number of hours  I work
+17,2,My daily expenses,3,My mental wellbeing
+18,3,My daily expenses,3,My mental wellbeing
+19,3,My work-life balance,1,The number of hours  I work
+20,2,Managing my personal commitments,3,My on-the-job learning opportunities
+21,3,Managing my family responsibilities,3,My mental wellbeing
+22,1,The number of hours  I work,2,My job satisfaction
+23,2,Preparing for work and commuting,3,My opportunities to socialise
+24,2,My daily expenses,2,My opportunities to socialise
+25,2,My work-life balance,2,My working relationships
+26,3,Managing my personal commitments,2,My working relationships
+27,3,My daily expenses,3,My mental wellbeing
+28,2,My opportunities to socialise,3,Preparing for work and commuting
+29,2,My working relationships,2,My work-life balance
+30,3,Preparing for work and commuting,3,My opportunities to socialise
+31,3,Managing my personal commitments,3,The number of hours  I work
+32,3,Preparing for work and commuting,3,My work-life balance
+33,3,My daily expenses,3,My work-life balance
+34,2,My work-life balance,1,Preparing for work and commuting
+35,3,My work-life balance,2,My on-the-job learning opportunities
+36,3,Managing my personal commitments,2,My opportunities to socialise
+37,2,My daily expenses,3,The number of hours  I work
+38,3,My work-life balance,3,My opportunities to socialise
+39,2,My mental wellbeing,2,Managing my family responsibilities
+40,2,My work-life balance,2,My working relationships
+41,2,My on-the-job learning opportunities,2,My mental wellbeing
+42,3,My daily expenses,3,My mental wellbeing
+43,3,My mental wellbeing,2,My work-life balance
+44,2,My work-life balance,3,My opportunities to socialise
+45,2,My daily expenses,3,My working relationships
+46,2,My work-life balance,3,My job satisfaction
+47,3,Preparing for work and commuting,3,My mental wellbeing
+48,3,My work-life balance,3,My working relationships
+49,3,My work-life balance,3,Preparing for work and commuting
+50,2,My opportunities to socialise,1,The number of hours  I work
+51,2,Managing my personal commitments,3,The number of hours  I work
+52,2,Preparing for work and commuting,2,My working relationships
+53,2,Managing my family responsibilities,2,The number of hours  I work
+54,3,Managing my personal commitments,2,The number of hours  I work
+55,2,My mental wellbeing,3,My working relationships
+56,3,Preparing for work and commuting,3,My working relationships
+57,3,Managing my family responsibilities,2,My working relationships
+58,3,Preparing for work and commuting,3,The number of hours  I work
+59,3,My daily expenses,1,My work-life balance
+60,3,My work-life balance,3,The number of hours  I work
+61,2,My work-life balance,2,Preparing for work and commuting
+62,2,My work-life balance,3,My working relationships
+63,3,Preparing for work and commuting,3,The number of hours  I work
+64,3,My work-life balance,3,The number of hours  I work
+65,3,Preparing for work and commuting,3,My working relationships
+66,3,My work-life balance,3,The number of hours  I work
+67,2,My work-life balance,3,My working relationships
+68,1,The number of hours  I work,2,Managing my personal commitments
+69,3,My daily expenses,3,The number of hours  I work
+70,2,My opportunities to socialise,3,My job satisfaction
+71,3,My work-life balance,3,My working relationships
+72,2,My daily expenses,3,My on-the-job learning opportunities
+73,3,My work-life balance,3,The number of hours  I work
+74,2,Preparing for work and commuting,2,The number of hours  I work
+75,2,My work-life balance,3,The number of hours  I work
+76,3,My daily expenses,3,My opportunities to socialise
+77,3,My mental wellbeing,2,My working relationships
+78,2,My on-the-job learning opportunities,2,My mental wellbeing
+79,3,My work-life balance,3,My working relationships
+80,1,The number of hours  I work,3,My opportunities to socialise
+81,3,Preparing for work and commuting,3,My working relationships
+82,3,My personal relationships,3,My mental wellbeing
+83,3,Preparing for work and commuting,3,My work-life balance
+84,3,Managing my family responsibilities,3,The number of hours  I work
+85,2,My work-life balance,1,The number of hours  I work
+86,2,Managing my personal commitments,2,My working relationships
+87,3,My work-life balance,3,My on-the-job learning opportunities
+88,3,My daily expenses,3,My mental wellbeing
+89,3,Preparing for work and commuting,2,My working relationships
+90,2,The number of hours  I work,3,My opportunities to socialise
+91,1,Preparing for work and commuting,2,Managing my personal commitments
+92,3,My job satisfaction,3,Preparing for work and commuting
+93,3,Preparing for work and commuting,3,My working relationships
+94,3,My daily expenses,3,My on-the-job learning opportunities
+95,3,Preparing for work and commuting,3,My working relationships
+96,2,Preparing for work and commuting,2,My working relationships
+97,3,My work-life balance,2,My on-the-job learning opportunities
+98,3,Preparing for work and commuting,2,My opportunities to socialise
+99,3,Preparing for work and commuting,3,My working relationships
+100,2,Preparing for work and commuting,2,My working relationships
+101,2,Managing my family responsibilities,2,Managing my personal commitments
+102,3,My work-life balance,3,The number of hours  I work
+103,3,Preparing for work and commuting,2,The number of hours  I work
+104,3,Preparing for work and commuting,3,My opportunities to socialise
+105,3,My work-life balance,3,My opportunities to socialise
+106,3,My work-life balance,3,My on-the-job learning opportunities
+107,2,My work-life balance,3,My working relationships
+108,2,My work-life balance,3,My working relationships
+109,3,Managing my family responsibilities,3,My working relationships
+110,2,My work-life balance,3,My mental wellbeing
+111,1,The number of hours  I work,2,My opportunities to socialise
+112,1,Preparing for work and commuting,1,My personal relationships
+113,2,The number of hours  I work,2,My working relationships
+114,3,My work-life balance,2,The number of hours  I work
+115,2,My work-life balance,3,My job satisfaction
+116,2,Managing my personal commitments,2,My work-life balance
+117,2,My work-life balance,3,My opportunities to socialise
+118,3,Managing my personal commitments,2,My working relationships
+119,1,The number of hours  I work,1,The number of hours  I work
+120,3,My work-life balance,2,My working relationships
+121,2,My daily expenses,3,My opportunities to socialise
+122,3,My daily expenses,3,My mental wellbeing
+123,3,My job satisfaction,3,The number of hours  I work
+124,2,My personal relationships,1,The number of hours  I work
+125,3,Managing my family responsibilities,3,My job satisfaction
+126,2,Preparing for work and commuting,3,My opportunities to socialise
+127,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+128,3,Preparing for work and commuting,3,My working relationships
+129,2,Preparing for work and commuting,3,My working relationships
+130,3,Managing my personal commitments,2,My working relationships
+131,3,My daily expenses,2,My working relationships
+132,3,My work-life balance,3,The number of hours  I work
+133,3,My work-life balance,2,My working relationships
+134,3,My work-life balance,2,My working relationships
+135,3,Preparing for work and commuting,3,My mental wellbeing
+136,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+137,2,The number of hours  I work,2,Preparing for work and commuting
+138,2,My work-life balance,3,My mental wellbeing
+139,2,My work-life balance,2,My working relationships
+140,2,My mental wellbeing,2,My personal relationships
+141,3,Preparing for work and commuting,3,My opportunities to socialise
+142,2,Preparing for work and commuting,3,My opportunities to socialise
+143,3,Managing my family responsibilities,3,My working relationships
+144,2,My daily expenses,2,My job satisfaction
+145,3,Preparing for work and commuting,2,Managing my family responsibilities
+146,3,My job satisfaction,3,My opportunities to socialise
+147,2,My working relationships,2,My opportunities to socialise
+148,2,My work-life balance,3,Preparing for work and commuting
+149,2,Preparing for work and commuting,2,My personal relationships
+150,3,My personal relationships,2,My on-the-job learning opportunities
+151,3,My work-life balance,2,My working relationships
+152,3,Preparing for work and commuting,3,The number of hours  I work
+153,3,My working relationships,2,My job satisfaction
+154,2,My personal relationships,1,Preparing for work and commuting
+155,2,My work-life balance,3,The number of hours  I work
+156,3,Preparing for work and commuting,3,My mental wellbeing
+157,3,My daily expenses,2,My work-life balance
+158,3,Preparing for work and commuting,2,My opportunities to socialise
+159,1,The number of hours  I work,2,Preparing for work and commuting
+160,2,My work-life balance,2,My opportunities to socialise
+161,3,The number of hours  I work,2,My work-life balance
+162,3,The number of hours  I work,3,My work-life balance
+163,3,Managing my family responsibilities,3,The number of hours  I work
+164,3,My working relationships,3,My work-life balance
+165,1,The number of hours  I work,1,The number of hours  I work
+166,3,My daily expenses,2,My on-the-job learning opportunities
+167,1,The number of hours  I work,2,My daily expenses
+168,3,My work-life balance,3,My mental wellbeing
+169,2,My job satisfaction,2,Preparing for work and commuting
+170,3,Preparing for work and commuting,2,My working relationships
+171,3,My work-life balance,3,My working relationships
+172,2,Managing my personal commitments,2,My mental wellbeing
+173,2,My work-life balance,2,The number of hours  I work
+174,2,Preparing for work and commuting,3,My working relationships
+175,2,The number of hours  I work,2,My on-the-job learning opportunities
+176,3,My mental wellbeing,2,The number of hours  I work
+177,1,The number of hours  I work,2,My working relationships
+178,2,Managing my personal commitments,2,Preparing for work and commuting
+179,2,My mental wellbeing,2,Preparing for work and commuting
+180,2,The number of hours  I work,3,My working relationships
+181,2,The number of hours  I work,3,My opportunities to socialise
+182,3,My work-life balance,3,My working relationships
+183,2,My job satisfaction,2,My personal relationships
+184,3,My work-life balance,3,Managing my family responsibilities
+185,3,Preparing for work and commuting,3,My working relationships
+186,2,My work-life balance,2,My on-the-job learning opportunities
+187,3,Managing my family responsibilities,3,The number of hours  I work
+188,3,Preparing for work and commuting,3,My mental wellbeing
+189,2,My working relationships,2,My opportunities to socialise
+190,3,My mental wellbeing,3,The number of hours  I work
+191,3,The number of hours  I work,3,My job satisfaction
+192,2,My on-the-job learning opportunities,2,My personal relationships
+193,2,My work-life balance,2,My opportunities to socialise
+194,3,My work-life balance,2,The number of hours  I work
+195,2,Preparing for work and commuting,3,My opportunities to socialise
+196,3,Managing my personal commitments,3,My job satisfaction
+197,3,My daily expenses,3,My working relationships
+198,3,My daily expenses,2,The number of hours  I work
+199,3,My work-life balance,3,My working relationships
+200,3,The number of hours  I work,3,My opportunities to socialise
+201,3,My work-life balance,2,My working relationships
+202,1,Preparing for work and commuting,2,My opportunities to socialise
+203,3,My work-life balance,3,My working relationships
+204,3,My work-life balance,3,My working relationships
+205,2,The number of hours  I work,2,My work-life balance
+206,3,My job satisfaction,2,The number of hours  I work
+207,3,Preparing for work and commuting,2,My personal relationships
+208,3,My work-life balance,2,My opportunities to socialise
+209,2,The number of hours  I work,2,My working relationships
+210,3,My work-life balance,2,My working relationships
+211,2,Preparing for work and commuting,3,My working relationships
+212,2,My work-life balance,2,Managing my personal commitments
+213,2,My daily expenses,3,My on-the-job learning opportunities
+214,2,My on-the-job learning opportunities,2,Preparing for work and commuting
+215,3,Preparing for work and commuting,2,My personal relationships
+216,2,My personal relationships,1,Preparing for work and commuting
+217,2,Preparing for work and commuting,2,My opportunities to socialise
+218,3,Preparing for work and commuting,3,My mental wellbeing
+219,3,Preparing for work and commuting,3,My opportunities to socialise
+220,2,Preparing for work and commuting,2,My working relationships
+221,3,My work-life balance,3,My working relationships
+222,2,My personal relationships,3,My mental wellbeing
+223,3,My work-life balance,3,My on-the-job learning opportunities
+224,2,My working relationships,3,My job satisfaction
+225,2,My job satisfaction,2,My work-life balance
+226,2,My personal relationships,2,My work-life balance
+227,2,My work-life balance,3,My mental wellbeing
+228,3,My work-life balance,3,My on-the-job learning opportunities
+229,2,Preparing for work and commuting,1,The number of hours  I work
+230,2,My mental wellbeing,3,My working relationships
+231,2,My mental wellbeing,1,My work-life balance
+232,3,My work-life balance,2,The number of hours  I work
+233,3,My work-life balance,3,My job satisfaction
+234,3,Managing my family responsibilities,3,My job satisfaction
+235,3,The number of hours  I work,1,My working relationships
+236,2,Preparing for work and commuting,2,My daily expenses
+237,3,Preparing for work and commuting,3,My working relationships
+238,2,My daily expenses,2,My personal relationships
+239,3,My work-life balance,3,My personal relationships
+240,3,My work-life balance,3,My working relationships
+241,3,Managing my family responsibilities,3,My work-life balance
+242,3,My daily expenses,3,My opportunities to socialise
+243,2,The number of hours  I work,2,My working relationships
+244,3,My daily expenses,1,The number of hours  I work
+245,2,My work-life balance,3,My working relationships
+246,2,My working relationships,2,My daily expenses
+247,3,My work-life balance,2,My on-the-job learning opportunities
+248,2,My opportunities to socialise,1,The number of hours  I work
+249,2,My work-life balance,2,My mental wellbeing
+250,1,Preparing for work and commuting,2,My opportunities to socialise
+251,3,My mental wellbeing,2,My working relationships
+252,2,My mental wellbeing,2,The number of hours  I work
+253,2,My work-life balance,3,My opportunities to socialise
+254,2,My daily expenses,2,My opportunities to socialise
+255,3,The number of hours  I work,3,My opportunities to socialise
+256,2,My daily expenses,2,My opportunities to socialise
+257,3,My work-life balance,3,My mental wellbeing
+258,3,My work-life balance,2,My opportunities to socialise
+259,3,Preparing for work and commuting,3,My working relationships
+260,2,My work-life balance,2,My working relationships
+261,3,My job satisfaction,3,My opportunities to socialise
+262,3,Managing my family responsibilities,3,The number of hours  I work
+263,2,My work-life balance,3,My opportunities to socialise
+264,3,My work-life balance,2,My working relationships
+265,3,My work-life balance,3,The number of hours  I work
+266,2,My work-life balance,3,My opportunities to socialise
+267,2,My daily expenses,3,My mental wellbeing
+268,2,My work-life balance,2,The number of hours  I work
+269,3,Preparing for work and commuting,3,My opportunities to socialise
+270,3,My daily expenses,3,The number of hours  I work
+271,3,My work-life balance,3,My opportunities to socialise
+272,3,Preparing for work and commuting,3,My working relationships
+273,3,Preparing for work and commuting,3,My mental wellbeing
+274,2,My work-life balance,3,My on-the-job learning opportunities
+275,3,My mental wellbeing,3,My on-the-job learning opportunities
+276,2,Managing my personal commitments,3,My opportunities to socialise
+277,3,Preparing for work and commuting,2,My working relationships
+278,3,Preparing for work and commuting,2,The number of hours  I work
+279,3,My work-life balance,3,My opportunities to socialise
+280,3,My mental wellbeing,3,My on-the-job learning opportunities
+281,3,Preparing for work and commuting,3,My opportunities to socialise
+282,3,My daily expenses,3,My working relationships
+283,3,My work-life balance,2,My mental wellbeing
+284,2,The number of hours  I work,3,My job satisfaction
+285,3,My work-life balance,3,The number of hours  I work
+286,2,Preparing for work and commuting,3,My working relationships
+287,3,My working relationships,3,Preparing for work and commuting
+288,2,My personal relationships,2,My working relationships
+289,2,My personal relationships,3,Managing my personal commitments
+290,3,My work-life balance,3,My working relationships
+291,2,Preparing for work and commuting,2,The number of hours  I work
+292,2,Preparing for work and commuting,3,My opportunities to socialise
+293,3,Managing my personal commitments,2,My working relationships
+294,3,My daily expenses,2,The number of hours  I work
+295,2,My work-life balance,3,My job satisfaction
+296,3,My work-life balance,3,My opportunities to socialise
+297,2,Preparing for work and commuting,2,The number of hours  I work
+298,3,My work-life balance,3,The number of hours  I work
+299,2,My opportunities to socialise,2,The number of hours  I work
+300,3,Preparing for work and commuting,3,My mental wellbeing
+301,2,Preparing for work and commuting,2,My working relationships
+302,3,My daily expenses,3,The number of hours  I work
+303,3,Managing my family responsibilities,3,My working relationships
+304,3,Managing my personal commitments,3,My opportunities to socialise
+305,3,Preparing for work and commuting,2,My working relationships
+306,3,My daily expenses,3,My working relationships
+307,3,My work-life balance,3,My working relationships
+308,3,My job satisfaction,3,My mental wellbeing
+309,3,My work-life balance,2,The number of hours  I work
+310,3,Preparing for work and commuting,2,My working relationships
+311,3,Preparing for work and commuting,2,My opportunities to socialise
+312,3,My job satisfaction,3,My working relationships
+313,3,Managing my personal commitments,2,The number of hours  I work
+314,3,Preparing for work and commuting,1,The number of hours  I work
+315,3,My daily expenses,3,My working relationships
+316,2,My daily expenses,3,My opportunities to socialise
+317,3,Managing my family responsibilities,3,My work-life balance
+318,3,Preparing for work and commuting,3,My opportunities to socialise
+319,3,Preparing for work and commuting,2,The number of hours  I work
+320,3,Managing my personal commitments,3,My daily expenses
+321,2,My work-life balance,3,Managing my personal commitments
+322,2,My daily expenses,3,My on-the-job learning opportunities
+323,3,Preparing for work and commuting,3,My daily expenses
+324,2,My work-life balance,2,My opportunities to socialise
+325,3,My job satisfaction,2,My working relationships
+326,3,The number of hours  I work,2,My opportunities to socialise
+327,3,Managing my family responsibilities,3,My job satisfaction
+328,2,Preparing for work and commuting,2,My on-the-job learning opportunities
+329,3,My work-life balance,3,My mental wellbeing
+330,3,Preparing for work and commuting,3,The number of hours  I work
+331,3,My personal relationships,3,My on-the-job learning opportunities
+332,3,My work-life balance,2,My working relationships
+333,2,My work-life balance,3,My on-the-job learning opportunities
+334,3,The number of hours  I work,3,My mental wellbeing
+335,1,Preparing for work and commuting,2,My mental wellbeing
+336,3,My working relationships,2,My personal relationships
+337,2,My work-life balance,2,My opportunities to socialise
+338,3,My work-life balance,3,My opportunities to socialise
+339,2,My work-life balance,2,The number of hours  I work
+340,3,Managing my family responsibilities,2,My personal relationships
+341,3,My daily expenses,2,My opportunities to socialise
+342,1,My work-life balance,1,My personal relationships
+343,2,Preparing for work and commuting,2,My work-life balance
+344,2,Preparing for work and commuting,2,The number of hours  I work
+345,2,The number of hours  I work,3,My on-the-job learning opportunities
+346,2,My mental wellbeing,2,The number of hours  I work
+347,2,My job satisfaction,2,My daily expenses
+348,3,My daily expenses,2,The number of hours  I work
+349,2,Preparing for work and commuting,2,My working relationships
+350,3,Preparing for work and commuting,3,My opportunities to socialise
+351,2,My on-the-job learning opportunities,2,My job satisfaction
+352,2,My working relationships,2,The number of hours  I work
+353,2,Managing my family responsibilities,1,The number of hours  I work
+354,2,My work-life balance,2,My working relationships
+355,1,Preparing for work and commuting,3,The number of hours  I work
+356,3,My work-life balance,3,My opportunities to socialise
+357,2,My working relationships,3,Managing my family responsibilities
+358,3,Managing my personal commitments,3,My opportunities to socialise
+359,3,Preparing for work and commuting,3,My working relationships
+360,3,Preparing for work and commuting,2,My opportunities to socialise
+361,3,My work-life balance,3,The number of hours  I work
+362,3,My work-life balance,3,My opportunities to socialise
+363,3,My work-life balance,3,My mental wellbeing
+364,2,My opportunities to socialise,2,My daily expenses
+365,2,The number of hours  I work,2,My personal relationships
+366,3,My work-life balance,3,My mental wellbeing
+367,2,Preparing for work and commuting,3,My opportunities to socialise
+368,3,My working relationships,2,My work-life balance
+369,1,My work-life balance,2,The number of hours  I work
+370,3,Preparing for work and commuting,3,My opportunities to socialise
+371,3,My work-life balance,3,My opportunities to socialise
+372,2,My working relationships,1,Preparing for work and commuting
+373,2,Preparing for work and commuting,3,The number of hours  I work
+374,2,My work-life balance,2,The number of hours  I work
+375,3,My daily expenses,3,My job satisfaction
+376,3,My work-life balance,2,My working relationships
+377,3,My daily expenses,3,My opportunities to socialise
+378,2,My work-life balance,2,The number of hours  I work
+379,2,My daily expenses,2,My opportunities to socialise
+380,2,Preparing for work and commuting,2,My job satisfaction
+381,3,Preparing for work and commuting,3,My mental wellbeing
+382,3,My daily expenses,3,My on-the-job learning opportunities
+383,3,My work-life balance,3,My working relationships
+384,3,My work-life balance,2,My working relationships
+385,3,My work-life balance,2,My on-the-job learning opportunities
+386,3,Preparing for work and commuting,3,My opportunities to socialise
+387,2,The number of hours  I work,3,My on-the-job learning opportunities
+388,3,Preparing for work and commuting,3,My opportunities to socialise
+389,3,Managing my personal commitments,3,My working relationships
+390,3,My daily expenses,3,The number of hours  I work
+391,2,My work-life balance,2,My working relationships
+392,3,Managing my personal commitments,2,The number of hours  I work
+393,1,Preparing for work and commuting,2,Managing my personal commitments
+394,2,Preparing for work and commuting,3,My opportunities to socialise
+395,3,My work-life balance,3,My personal relationships
+396,3,Preparing for work and commuting,3,My working relationships
+397,3,My work-life balance,3,My on-the-job learning opportunities
+398,2,Preparing for work and commuting,3,My opportunities to socialise
+399,2,Preparing for work and commuting,3,My personal relationships
+400,2,The number of hours  I work,3,My opportunities to socialise
+401,2,My work-life balance,1,The number of hours  I work
+402,2,The number of hours  I work,3,My working relationships
+403,3,Managing my family responsibilities,2,My working relationships
+404,2,My daily expenses,2,My opportunities to socialise
+405,3,Preparing for work and commuting,2,My working relationships
+406,3,My work-life balance,2,My daily expenses
+407,3,My work-life balance,3,My on-the-job learning opportunities
+408,3,Preparing for work and commuting,3,My mental wellbeing
+409,3,My work-life balance,2,My working relationships
+410,3,My mental wellbeing,3,My daily expenses
+411,3,My daily expenses,3,My on-the-job learning opportunities
+412,3,Preparing for work and commuting,3,My daily expenses
+413,3,My work-life balance,3,My personal relationships
+414,3,My work-life balance,3,My opportunities to socialise
+415,2,My on-the-job learning opportunities,2,My opportunities to socialise
+416,3,My work-life balance,3,My personal relationships
+417,2,My job satisfaction,2,My working relationships
+418,3,My daily expenses,3,My opportunities to socialise
+419,3,My work-life balance,3,My on-the-job learning opportunities
+420,3,Preparing for work and commuting,2,The number of hours  I work
+421,3,Managing my family responsibilities,3,My job satisfaction
+422,3,Preparing for work and commuting,3,My opportunities to socialise
+423,3,Preparing for work and commuting,3,My working relationships
+424,3,My work-life balance,3,My on-the-job learning opportunities
+425,1,The number of hours  I work,2,My job satisfaction
+426,3,My mental wellbeing,3,My working relationships
+427,3,My work-life balance,2,My daily expenses
+428,2,My work-life balance,2,My on-the-job learning opportunities
+429,3,Preparing for work and commuting,2,The number of hours  I work
+430,3,My daily expenses,3,The number of hours  I work
+431,1,My work-life balance,2,My opportunities to socialise
+432,2,My job satisfaction,1,Preparing for work and commuting
+433,3,Managing my family responsibilities,3,My daily expenses
+434,3,My work-life balance,2,My opportunities to socialise
+435,3,My mental wellbeing,3,My daily expenses
+436,3,Managing my personal commitments,3,My opportunities to socialise
+437,3,My daily expenses,2,My work-life balance
+438,3,My work-life balance,3,My opportunities to socialise
+439,3,My daily expenses,1,The number of hours  I work
+440,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+441,3,Preparing for work and commuting,2,My working relationships
+442,2,Managing my family responsibilities,2,The number of hours  I work
+443,2,Preparing for work and commuting,3,My working relationships
+444,3,My work-life balance,3,The number of hours  I work
+445,3,Preparing for work and commuting,3,My job satisfaction
+446,2,Managing my family responsibilities,2,My daily expenses
+447,2,The number of hours  I work,3,My working relationships
+448,3,Preparing for work and commuting,3,My mental wellbeing
+449,3,The number of hours  I work,2,My personal relationships
+450,3,My work-life balance,3,My opportunities to socialise
+451,3,My work-life balance,3,My opportunities to socialise
+452,2,My work-life balance,2,The number of hours  I work
+453,3,The number of hours  I work,2,My working relationships
+454,2,Managing my personal commitments,3,My working relationships
+455,2,My personal relationships,3,The number of hours  I work
+456,2,Preparing for work and commuting,2,My opportunities to socialise
+457,3,My working relationships,3,Managing my family responsibilities
+458,2,My daily expenses,2,My working relationships
+459,3,My work-life balance,3,The number of hours  I work
+460,2,The number of hours  I work,2,My personal relationships
+461,3,My mental wellbeing,3,My on-the-job learning opportunities
+462,2,My on-the-job learning opportunities,2,My mental wellbeing
+463,3,My work-life balance,3,My opportunities to socialise
+464,3,Preparing for work and commuting,2,The number of hours  I work
+465,3,My job satisfaction,1,The number of hours  I work
+466,3,Preparing for work and commuting,3,The number of hours  I work
+467,2,My work-life balance,3,My working relationships
+468,2,Preparing for work and commuting,3,My working relationships
+469,3,My daily expenses,3,My opportunities to socialise
+470,2,The number of hours  I work,2,My opportunities to socialise
+471,3,Preparing for work and commuting,3,My working relationships
+472,2,My work-life balance,2,My opportunities to socialise
+473,3,Managing my personal commitments,3,My working relationships
+474,2,Preparing for work and commuting,3,Managing my family responsibilities
+475,2,My mental wellbeing,2,My personal relationships
+476,2,My work-life balance,2,The number of hours  I work
+477,2,Preparing for work and commuting,3,Managing my family responsibilities
+478,3,My work-life balance,3,My on-the-job learning opportunities
+479,2,The number of hours  I work,3,My opportunities to socialise
+480,3,Managing my family responsibilities,3,My mental wellbeing
+481,2,My opportunities to socialise,3,Managing my personal commitments
+482,3,Preparing for work and commuting,3,My opportunities to socialise
+483,3,My daily expenses,2,The number of hours  I work
+484,3,Managing my personal commitments,3,My working relationships
+485,3,Preparing for work and commuting,3,My working relationships
+486,3,My daily expenses,3,The number of hours  I work
+487,2,The number of hours  I work,3,My working relationships
+488,3,My mental wellbeing,3,The number of hours  I work
+489,2,My work-life balance,2,My on-the-job learning opportunities
+490,3,Preparing for work and commuting,3,The number of hours  I work
+491,3,Preparing for work and commuting,3,My work-life balance
+492,2,My work-life balance,3,The number of hours  I work
+493,2,My working relationships,2,The number of hours  I work
+494,2,Preparing for work and commuting,3,My working relationships
+495,2,Preparing for work and commuting,2,Managing my personal commitments
+496,2,My daily expenses,2,My work-life balance
+497,2,My work-life balance,3,My opportunities to socialise
+498,3,Managing my personal commitments,3,The number of hours  I work
+499,3,Preparing for work and commuting,3,The number of hours  I work
+500,3,My daily expenses,3,My job satisfaction
+501,1,My working relationships,2,My daily expenses
+502,3,The number of hours  I work,2,My job satisfaction
+503,3,Managing my family responsibilities,2,My mental wellbeing
+504,3,Managing my family responsibilities,2,My work-life balance
+505,2,My mental wellbeing,2,My on-the-job learning opportunities
+506,2,Preparing for work and commuting,2,My working relationships
+507,3,My daily expenses,3,The number of hours  I work
+508,2,My daily expenses,2,My personal relationships
+509,1,The number of hours  I work,2,My working relationships
+510,3,Managing my personal commitments,3,The number of hours  I work
+511,2,Preparing for work and commuting,3,My daily expenses
+512,3,Managing my family responsibilities,3,My opportunities to socialise
+513,2,Preparing for work and commuting,2,My mental wellbeing
+514,3,My work-life balance,3,The number of hours  I work
+515,2,The number of hours  I work,2,My work-life balance
+516,3,My work-life balance,3,My on-the-job learning opportunities
+517,1,Preparing for work and commuting,2,The number of hours  I work
+518,3,My work-life balance,3,My working relationships
+519,2,My working relationships,1,My work-life balance
+520,3,My work-life balance,3,My working relationships
+521,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+522,3,My work-life balance,3,My on-the-job learning opportunities
+523,3,Managing my personal commitments,2,My working relationships
+524,3,Managing my personal commitments,3,My working relationships
+525,3,Preparing for work and commuting,3,My opportunities to socialise
+526,3,Preparing for work and commuting,3,My opportunities to socialise
+527,3,My work-life balance,3,My opportunities to socialise
+528,3,My daily expenses,2,My on-the-job learning opportunities
+529,2,My work-life balance,2,My opportunities to socialise
+530,2,Preparing for work and commuting,2,The number of hours  I work
+531,1,The number of hours  I work,2,My personal relationships
+532,3,Preparing for work and commuting,3,The number of hours  I work
+533,3,The number of hours  I work,2,My on-the-job learning opportunities
+534,3,My work-life balance,2,My on-the-job learning opportunities
+535,2,Managing my family responsibilities,1,The number of hours  I work
+536,1,The number of hours  I work,2,My on-the-job learning opportunities
+537,1,The number of hours  I work,2,Managing my personal commitments
+538,2,My working relationships,3,Managing my family responsibilities
+539,2,My work-life balance,3,My opportunities to socialise
+540,2,Preparing for work and commuting,2,My working relationships
+541,2,The number of hours  I work,2,My working relationships
+542,3,Managing my family responsibilities,2,My personal relationships
+543,3,My work-life balance,3,My mental wellbeing
+544,2,My job satisfaction,2,The number of hours  I work
+545,2,Preparing for work and commuting,3,The number of hours  I work
+546,2,My work-life balance,3,Preparing for work and commuting
+547,3,Preparing for work and commuting,3,My opportunities to socialise
+548,1,My working relationships,2,The number of hours  I work
+549,3,Managing my personal commitments,3,My mental wellbeing
+550,3,My work-life balance,2,My opportunities to socialise
+551,2,My work-life balance,3,My working relationships
+552,3,My work-life balance,2,My working relationships
+553,2,My job satisfaction,3,Preparing for work and commuting
+554,3,My daily expenses,3,My opportunities to socialise
+555,3,My daily expenses,3,My working relationships
+556,2,Preparing for work and commuting,3,My opportunities to socialise
+557,3,My work-life balance,3,My opportunities to socialise
+558,2,My work-life balance,2,The number of hours  I work
+559,3,Preparing for work and commuting,3,My working relationships
+560,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+561,2,My work-life balance,2,Managing my family responsibilities
+562,3,Preparing for work and commuting,3,My mental wellbeing
+563,3,My work-life balance,2,My on-the-job learning opportunities
+564,3,Preparing for work and commuting,3,The number of hours  I work
+565,1,The number of hours  I work,2,My opportunities to socialise
+566,2,The number of hours  I work,3,My daily expenses
+567,3,My working relationships,3,Preparing for work and commuting
+568,2,Preparing for work and commuting,3,My mental wellbeing
+569,2,Preparing for work and commuting,3,My working relationships
+570,3,Preparing for work and commuting,3,My opportunities to socialise
+571,3,Managing my personal commitments,3,My working relationships
+572,3,Preparing for work and commuting,2,My job satisfaction
+573,3,Managing my personal commitments,3,My on-the-job learning opportunities
+574,3,Preparing for work and commuting,3,My working relationships
+575,3,Preparing for work and commuting,3,My mental wellbeing
+576,3,Managing my family responsibilities,3,My working relationships
+577,3,Preparing for work and commuting,3,My personal relationships
+578,3,My work-life balance,3,My working relationships
+579,3,Managing my personal commitments,3,My opportunities to socialise
+580,3,My work-life balance,3,My opportunities to socialise
+581,3,Preparing for work and commuting,3,My opportunities to socialise
+582,2,Preparing for work and commuting,2,The number of hours  I work
+583,2,My on-the-job learning opportunities,2,Managing my family responsibilities
+584,2,My work-life balance,2,The number of hours  I work
+585,3,My work-life balance,3,The number of hours  I work
+586,2,My daily expenses,3,The number of hours  I work
+587,2,My work-life balance,2,The number of hours  I work
+588,3,Preparing for work and commuting,3,My opportunities to socialise
+589,3,My work-life balance,2,My working relationships
+590,3,Managing my family responsibilities,3,My opportunities to socialise
+591,2,My job satisfaction,2,My daily expenses
+592,3,My daily expenses,2,My work-life balance
+593,3,My work-life balance,3,My opportunities to socialise
+594,3,Preparing for work and commuting,3,My work-life balance
+595,2,My mental wellbeing,2,My work-life balance
+596,3,My work-life balance,3,My opportunities to socialise
+597,3,My work-life balance,2,My opportunities to socialise
+598,2,My work-life balance,3,The number of hours  I work
+599,2,My work-life balance,2,My on-the-job learning opportunities
+600,3,Preparing for work and commuting,2,My working relationships
+601,3,My work-life balance,3,The number of hours  I work
+602,3,My personal relationships,3,Preparing for work and commuting
+603,3,Managing my family responsibilities,2,My working relationships
+604,3,Preparing for work and commuting,3,The number of hours  I work
+605,3,Preparing for work and commuting,2,My working relationships
+606,3,Preparing for work and commuting,3,The number of hours  I work
+607,2,My work-life balance,2,The number of hours  I work
+608,2,My daily expenses,2,My mental wellbeing
+609,2,My work-life balance,3,My mental wellbeing
+610,3,Preparing for work and commuting,3,My work-life balance
+611,3,My daily expenses,3,My on-the-job learning opportunities
+612,3,Managing my personal commitments,3,My working relationships
+613,3,My work-life balance,2,The number of hours  I work
+614,3,Managing my family responsibilities,2,My working relationships
+615,3,My job satisfaction,3,My opportunities to socialise
+616,3,My work-life balance,2,My opportunities to socialise
+617,3,My daily expenses,2,My opportunities to socialise
+618,3,My daily expenses,3,My work-life balance
+619,3,Managing my family responsibilities,2,My working relationships
+620,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+621,3,My daily expenses,1,The number of hours  I work
+622,2,My work-life balance,2,My on-the-job learning opportunities
+623,3,My work-life balance,3,My working relationships
+624,3,Preparing for work and commuting,2,My work-life balance
+625,3,Preparing for work and commuting,2,My working relationships
+626,3,My daily expenses,2,The number of hours  I work
+627,2,My daily expenses,2,My personal relationships
+628,2,Preparing for work and commuting,2,My mental wellbeing
+629,3,Preparing for work and commuting,3,My daily expenses
+630,3,My work-life balance,3,My working relationships
+631,3,My daily expenses,2,My working relationships
+632,2,My on-the-job learning opportunities,2,My job satisfaction
+633,2,Preparing for work and commuting,2,My personal relationships
+634,3,My mental wellbeing,2,Preparing for work and commuting
+635,3,My working relationships,2,Managing my personal commitments
+636,3,My work-life balance,2,My on-the-job learning opportunities
+637,3,Preparing for work and commuting,3,My working relationships
+638,3,My daily expenses,3,My opportunities to socialise
+639,3,Preparing for work and commuting,2,My working relationships
+640,3,My work-life balance,3,My personal relationships
+641,3,My working relationships,3,Preparing for work and commuting
+642,3,My work-life balance,3,My working relationships
+643,3,My work-life balance,2,My opportunities to socialise
+644,2,My daily expenses,3,My working relationships
+645,3,My mental wellbeing,2,The number of hours  I work
+646,2,Managing my personal commitments,2,My work-life balance
+647,3,My job satisfaction,3,My on-the-job learning opportunities
+648,2,My work-life balance,3,My opportunities to socialise
+649,3,My mental wellbeing,3,My on-the-job learning opportunities
+650,3,My work-life balance,3,My opportunities to socialise
+651,2,My personal relationships,1,The number of hours  I work
+652,3,Preparing for work and commuting,3,The number of hours  I work
+653,3,My work-life balance,3,My opportunities to socialise
+654,1,Preparing for work and commuting,2,My daily expenses
+655,3,Managing my family responsibilities,3,The number of hours  I work
+656,2,Preparing for work and commuting,3,My working relationships
+657,2,My job satisfaction,3,My daily expenses
+658,2,Preparing for work and commuting,3,My mental wellbeing
+659,3,My working relationships,1,The number of hours  I work
+660,2,My on-the-job learning opportunities,1,The number of hours  I work
+661,3,My work-life balance,3,My opportunities to socialise
+662,2,The number of hours  I work,2,My work-life balance
+663,3,Preparing for work and commuting,3,My opportunities to socialise
+664,3,My job satisfaction,3,My on-the-job learning opportunities
+665,3,Managing my family responsibilities,3,My on-the-job learning opportunities
+666,2,The number of hours  I work,2,My working relationships
+667,3,Preparing for work and commuting,2,My working relationships
+668,3,My work-life balance,2,My working relationships
+669,3,My work-life balance,2,My opportunities to socialise
+670,2,My work-life balance,2,My on-the-job learning opportunities
+671,2,My work-life balance,2,My working relationships
+672,3,Preparing for work and commuting,3,My opportunities to socialise
+673,3,Preparing for work and commuting,3,My daily expenses
+674,3,Preparing for work and commuting,3,My opportunities to socialise
+675,2,Preparing for work and commuting,2,The number of hours  I work
+676,2,Managing my personal commitments,1,The number of hours  I work
+677,3,My work-life balance,3,The number of hours  I work
+678,2,The number of hours  I work,2,My mental wellbeing
+679,3,My work-life balance,3,My mental wellbeing
+680,3,My personal relationships,1,The number of hours  I work
+681,3,My work-life balance,3,My working relationships
+682,3,Managing my personal commitments,3,My mental wellbeing
+683,2,Managing my personal commitments,2,My working relationships
+684,3,My job satisfaction,2,My work-life balance
+685,2,Managing my personal commitments,2,My working relationships
+686,2,My work-life balance,2,Managing my personal commitments
+687,3,My working relationships,3,Managing my personal commitments
+688,2,The number of hours  I work,2,My mental wellbeing
+689,3,Preparing for work and commuting,2,My opportunities to socialise
+690,1,The number of hours  I work,2,My working relationships
+691,1,The number of hours  I work,3,My personal relationships
+692,2,My work-life balance,2,The number of hours  I work
+693,2,My personal relationships,3,My mental wellbeing
+694,2,The number of hours  I work,3,My on-the-job learning opportunities
+695,3,My work-life balance,2,Preparing for work and commuting
+696,3,My work-life balance,2,The number of hours  I work
+697,3,Preparing for work and commuting,2,The number of hours  I work
+698,2,Managing my personal commitments,1,My work-life balance
+699,3,My work-life balance,3,My working relationships
+700,2,Managing my family responsibilities,3,My opportunities to socialise
+701,3,My mental wellbeing,2,My daily expenses
+702,3,My work-life balance,3,The number of hours  I work
+703,3,Preparing for work and commuting,3,My working relationships
+704,3,My job satisfaction,3,My personal relationships
+705,2,The number of hours  I work,1,The number of hours  I work
+706,2,My work-life balance,2,Managing my family responsibilities
+707,3,Preparing for work and commuting,3,The number of hours  I work
+708,3,My work-life balance,3,Preparing for work and commuting
+709,3,My work-life balance,3,My opportunities to socialise
+710,2,Preparing for work and commuting,3,My opportunities to socialise
+711,2,My mental wellbeing,2,My daily expenses
+712,3,My on-the-job learning opportunities,2,The number of hours  I work
+713,3,My work-life balance,3,My working relationships
+714,2,My work-life balance,3,My working relationships
+715,2,My work-life balance,3,My working relationships
+716,2,Preparing for work and commuting,2,The number of hours  I work
+717,3,My work-life balance,3,My opportunities to socialise
+718,2,My on-the-job learning opportunities,2,Preparing for work and commuting
+719,3,Preparing for work and commuting,3,The number of hours  I work
+720,3,My work-life balance,3,My opportunities to socialise
+721,3,My daily expenses,3,My mental wellbeing
+722,3,My work-life balance,3,My opportunities to socialise
+723,3,My work-life balance,3,My on-the-job learning opportunities
+724,3,My personal relationships,3,My job satisfaction
+725,3,Managing my personal commitments,3,My working relationships
+726,3,My work-life balance,3,My on-the-job learning opportunities
+727,3,Managing my personal commitments,3,My daily expenses
+728,3,My job satisfaction,2,The number of hours  I work
+729,3,My daily expenses,2,My working relationships
+730,3,My work-life balance,3,My working relationships
+731,2,My daily expenses,2,My working relationships
+732,2,My personal relationships,2,The number of hours  I work
+733,3,My work-life balance,3,The number of hours  I work
+734,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+735,3,My daily expenses,3,My personal relationships
+736,3,My daily expenses,3,The number of hours  I work
+737,3,My daily expenses,3,My opportunities to socialise
+738,2,My work-life balance,3,My opportunities to socialise
+739,3,Preparing for work and commuting,3,My opportunities to socialise
+740,3,My daily expenses,3,My opportunities to socialise
+741,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+742,3,Managing my personal commitments,3,My mental wellbeing
+743,2,Managing my personal commitments,2,My working relationships
+744,3,Preparing for work and commuting,3,The number of hours  I work
+745,3,My work-life balance,3,My personal relationships
+746,2,Managing my personal commitments,3,My opportunities to socialise
+747,1,The number of hours  I work,2,My opportunities to socialise
+748,3,My work-life balance,3,My on-the-job learning opportunities
+749,3,Managing my personal commitments,3,My working relationships
+750,3,Preparing for work and commuting,3,My opportunities to socialise
+751,3,The number of hours  I work,2,My opportunities to socialise
+752,3,My work-life balance,3,My opportunities to socialise
+753,3,My work-life balance,2,Managing my personal commitments
+754,3,Preparing for work and commuting,2,My working relationships
+755,3,My work-life balance,3,My working relationships
+756,3,Managing my personal commitments,3,My working relationships
+757,2,My personal relationships,2,My job satisfaction
+758,3,My job satisfaction,3,My opportunities to socialise
+759,2,My work-life balance,3,My working relationships
+760,3,Managing my family responsibilities,2,The number of hours  I work
+761,2,My work-life balance,3,The number of hours  I work
+762,3,My mental wellbeing,3,My working relationships
+763,3,My work-life balance,3,My opportunities to socialise
+764,1,The number of hours  I work,3,My opportunities to socialise
+765,2,My job satisfaction,2,My working relationships
+766,3,Preparing for work and commuting,3,My opportunities to socialise
+767,2,My work-life balance,3,My mental wellbeing
+768,2,My work-life balance,3,My working relationships
+769,3,Preparing for work and commuting,3,My daily expenses
+770,3,My daily expenses,3,My working relationships
+771,3,My work-life balance,2,My working relationships
+772,1,The number of hours  I work,2,My personal relationships
+773,3,My daily expenses,2,My opportunities to socialise
+774,3,Preparing for work and commuting,3,My opportunities to socialise
+775,3,Managing my family responsibilities,2,My on-the-job learning opportunities
+776,2,Managing my personal commitments,2,My daily expenses
+777,3,My work-life balance,3,My opportunities to socialise
+778,3,My work-life balance,3,My opportunities to socialise
+779,3,My daily expenses,3,Managing my family responsibilities
+780,3,My daily expenses,2,My work-life balance
+781,3,My working relationships,1,The number of hours  I work
+782,2,My work-life balance,3,My opportunities to socialise
+783,3,My work-life balance,3,My working relationships
+784,3,Preparing for work and commuting,3,My working relationships
+785,3,My work-life balance,3,My daily expenses
+786,3,Preparing for work and commuting,2,My working relationships
+787,2,My personal relationships,2,Preparing for work and commuting
+788,3,My work-life balance,3,My on-the-job learning opportunities
+789,3,My work-life balance,3,My working relationships
+790,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+791,3,Preparing for work and commuting,3,My working relationships
+792,3,My work-life balance,3,The number of hours  I work
+793,3,Managing my family responsibilities,3,The number of hours  I work
+794,3,The number of hours  I work,3,My working relationships
+795,2,My on-the-job learning opportunities,2,My work-life balance
+796,3,My daily expenses,2,My job satisfaction
+797,3,My job satisfaction,3,My working relationships
+798,3,Preparing for work and commuting,3,My working relationships
+799,3,My work-life balance,3,My working relationships
+800,2,My on-the-job learning opportunities,3,My working relationships
+801,3,My work-life balance,2,My working relationships
+802,2,My mental wellbeing,3,My working relationships
+803,3,My work-life balance,3,My on-the-job learning opportunities
+804,3,Preparing for work and commuting,2,My working relationships
+805,3,Preparing for work and commuting,2,My working relationships
+806,3,My mental wellbeing,2,My opportunities to socialise
+807,3,Preparing for work and commuting,3,My opportunities to socialise
+808,2,Preparing for work and commuting,3,My personal relationships
+809,3,Preparing for work and commuting,3,The number of hours  I work
+810,3,Preparing for work and commuting,2,My working relationships
+811,3,Preparing for work and commuting,3,My mental wellbeing
+812,1,The number of hours  I work,2,My working relationships
+813,3,Preparing for work and commuting,3,My working relationships
+814,2,My work-life balance,3,My working relationships
+815,3,Preparing for work and commuting,2,My personal relationships
+816,3,My job satisfaction,3,My opportunities to socialise
+817,2,My mental wellbeing,3,My opportunities to socialise
+818,3,My mental wellbeing,2,The number of hours  I work
+819,3,My work-life balance,3,My on-the-job learning opportunities
+820,2,My mental wellbeing,2,My working relationships
+821,2,My working relationships,2,My job satisfaction
+822,3,My daily expenses,3,My mental wellbeing
+823,3,My work-life balance,3,The number of hours  I work
+824,2,My mental wellbeing,2,My personal relationships
+825,3,Preparing for work and commuting,3,My mental wellbeing
+826,3,My job satisfaction,2,My daily expenses
+827,3,Preparing for work and commuting,3,My opportunities to socialise
+828,2,Preparing for work and commuting,3,The number of hours  I work
+829,2,My mental wellbeing,2,My working relationships
+830,2,Managing my family responsibilities,2,My daily expenses
+831,2,Preparing for work and commuting,2,My working relationships
+832,3,My working relationships,2,Managing my personal commitments
+833,3,My work-life balance,2,My working relationships
+834,3,My work-life balance,3,Preparing for work and commuting
+835,2,My work-life balance,3,My opportunities to socialise
+836,3,My daily expenses,3,My mental wellbeing
+837,3,My work-life balance,3,My on-the-job learning opportunities
+838,3,The number of hours  I work,2,My working relationships
+839,3,My work-life balance,3,The number of hours  I work
+840,3,My personal relationships,3,My mental wellbeing
+841,2,My work-life balance,2,My working relationships
+842,3,My daily expenses,3,My opportunities to socialise
+843,3,My work-life balance,3,My working relationships
+844,3,My work-life balance,3,My opportunities to socialise
+845,1,The number of hours  I work,2,My work-life balance
+846,2,My work-life balance,2,My mental wellbeing
+847,3,Preparing for work and commuting,2,My job satisfaction
+848,3,My work-life balance,3,My on-the-job learning opportunities
+849,3,My work-life balance,3,My working relationships
+850,2,Preparing for work and commuting,3,My mental wellbeing
+851,3,Preparing for work and commuting,3,My working relationships
+852,3,Managing my family responsibilities,3,My on-the-job learning opportunities
+853,2,My work-life balance,2,My personal relationships
+854,3,My work-life balance,3,My on-the-job learning opportunities
+855,3,My work-life balance,3,My mental wellbeing
+856,3,My work-life balance,3,My working relationships
+857,3,My daily expenses,3,The number of hours  I work
+858,3,My mental wellbeing,2,My personal relationships
+859,2,Preparing for work and commuting,3,My working relationships
+860,3,Preparing for work and commuting,3,My working relationships
+861,3,Preparing for work and commuting,2,My opportunities to socialise
+862,2,The number of hours  I work,3,My opportunities to socialise
+863,3,Managing my personal commitments,2,My work-life balance
+864,3,My work-life balance,3,My mental wellbeing
+865,3,The number of hours  I work,2,My daily expenses
+866,3,Preparing for work and commuting,2,My personal relationships
+867,2,My work-life balance,2,My job satisfaction
+868,3,Preparing for work and commuting,2,My working relationships
+869,2,My personal relationships,1,The number of hours  I work
+870,3,My mental wellbeing,3,My opportunities to socialise
+871,3,Preparing for work and commuting,3,My opportunities to socialise
+872,3,My daily expenses,2,My on-the-job learning opportunities
+873,3,Preparing for work and commuting,3,My work-life balance
+874,1,The number of hours  I work,2,My mental wellbeing
+875,3,My work-life balance,3,My opportunities to socialise
+876,2,The number of hours  I work,2,My opportunities to socialise
+877,3,My personal relationships,3,My opportunities to socialise
+878,2,Managing my family responsibilities,2,The number of hours  I work
+879,3,My work-life balance,3,My working relationships
+880,2,Preparing for work and commuting,3,The number of hours  I work
+881,3,Managing my family responsibilities,2,My working relationships
+882,2,My work-life balance,3,My opportunities to socialise
+883,3,My work-life balance,3,My working relationships
+884,3,My daily expenses,3,My working relationships
+885,3,Preparing for work and commuting,3,My working relationships
+886,3,My job satisfaction,3,My personal relationships
+887,3,My work-life balance,3,My opportunities to socialise
+888,3,My mental wellbeing,3,My opportunities to socialise
+889,2,My work-life balance,3,My opportunities to socialise
+890,2,Preparing for work and commuting,3,My on-the-job learning opportunities
+891,3,My working relationships,3,My daily expenses
+892,1,The number of hours  I work,2,My work-life balance
+893,3,My work-life balance,3,My personal relationships
+894,3,My daily expenses,2,My opportunities to socialise
+895,3,Managing my personal commitments,3,My opportunities to socialise
+896,2,My work-life balance,2,The number of hours  I work
+897,3,My work-life balance,3,My opportunities to socialise
+898,3,My job satisfaction,3,My work-life balance
+899,2,Preparing for work and commuting,2,My opportunities to socialise
+900,3,My mental wellbeing,3,My opportunities to socialise
+901,2,Preparing for work and commuting,2,My daily expenses
+902,2,My work-life balance,2,My working relationships
+903,3,My work-life balance,3,My opportunities to socialise
+904,2,Preparing for work and commuting,1,My working relationships
+905,3,Preparing for work and commuting,2,My work-life balance
+906,2,Managing my family responsibilities,1,The number of hours  I work
+907,3,My work-life balance,3,My opportunities to socialise
+908,3,My work-life balance,2,My working relationships
+909,3,My working relationships,3,Managing my family responsibilities
+910,3,My work-life balance,3,My working relationships
+911,3,Preparing for work and commuting,1,The number of hours  I work
+912,3,Managing my family responsibilities,3,The number of hours  I work
+913,3,My work-life balance,3,My working relationships
+914,3,The number of hours  I work,3,My mental wellbeing
+915,3,My work-life balance,3,The number of hours  I work
+916,2,My work-life balance,3,My working relationships
+917,3,My working relationships,2,My job satisfaction
+918,2,Preparing for work and commuting,2,Managing my personal commitments
+919,3,My work-life balance,3,My opportunities to socialise
+920,2,My personal relationships,3,My opportunities to socialise
+921,2,Preparing for work and commuting,2,My working relationships
+922,2,My opportunities to socialise,3,Preparing for work and commuting
+923,3,Managing my family responsibilities,2,My working relationships
+924,2,The number of hours  I work,2,Managing my personal commitments
+925,2,Preparing for work and commuting,3,My opportunities to socialise
+926,3,My work-life balance,2,My working relationships
+927,1,My personal relationships,2,Managing my personal commitments
+928,3,My work-life balance,2,My working relationships
+929,2,My work-life balance,3,My working relationships
+930,3,My daily expenses,3,My job satisfaction
+931,2,The number of hours  I work,2,My on-the-job learning opportunities
+932,2,My personal relationships,3,My working relationships
+933,3,Preparing for work and commuting,3,My working relationships
+934,2,Preparing for work and commuting,2,My opportunities to socialise
+935,3,Preparing for work and commuting,2,My mental wellbeing
+936,3,Preparing for work and commuting,3,The number of hours  I work
+937,3,My mental wellbeing,3,My opportunities to socialise
+938,2,Managing my personal commitments,1,My work-life balance
+939,3,My daily expenses,3,My mental wellbeing
+940,3,My daily expenses,3,My job satisfaction
+941,3,My work-life balance,3,My on-the-job learning opportunities
+942,2,Preparing for work and commuting,3,My working relationships
+943,3,My work-life balance,2,The number of hours  I work
+944,3,My job satisfaction,3,My mental wellbeing
+945,1,The number of hours  I work,2,Managing my family responsibilities
+946,2,Preparing for work and commuting,3,My on-the-job learning opportunities
+947,2,My work-life balance,2,My working relationships
+948,2,The number of hours  I work,3,My working relationships
+949,2,The number of hours  I work,2,My working relationships
+950,3,My work-life balance,3,The number of hours  I work
+951,3,My daily expenses,3,My opportunities to socialise
+952,3,Preparing for work and commuting,3,The number of hours  I work
+953,3,Managing my personal commitments,2,My work-life balance
+954,3,Managing my personal commitments,2,My working relationships
+955,2,Managing my personal commitments,2,My opportunities to socialise
+956,2,My daily expenses,3,My working relationships
+957,2,Preparing for work and commuting,1,Preparing for work and commuting
+958,2,Managing my personal commitments,3,My on-the-job learning opportunities
+959,3,My daily expenses,3,My opportunities to socialise
+960,2,Managing my personal commitments,3,My mental wellbeing
+961,3,Preparing for work and commuting,3,My mental wellbeing
+962,3,My work-life balance,3,My opportunities to socialise
+963,3,My work-life balance,2,My on-the-job learning opportunities
+964,1,Preparing for work and commuting,3,My working relationships
+965,3,Preparing for work and commuting,3,The number of hours  I work
+966,2,My work-life balance,3,My working relationships
+967,3,Preparing for work and commuting,3,The number of hours  I work
+968,3,My work-life balance,2,My opportunities to socialise
+969,3,My daily expenses,3,My mental wellbeing
+970,3,My work-life balance,3,My on-the-job learning opportunities
+971,3,My work-life balance,2,My opportunities to socialise
+972,2,Preparing for work and commuting,3,My opportunities to socialise
+973,3,My work-life balance,2,My working relationships
+974,2,The number of hours  I work,2,My working relationships
+975,3,My work-life balance,3,My job satisfaction
+976,3,Preparing for work and commuting,3,My opportunities to socialise
+977,3,Managing my family responsibilities,3,My mental wellbeing
+978,3,Preparing for work and commuting,2,My working relationships
+979,3,Managing my personal commitments,2,The number of hours  I work
+980,2,My work-life balance,2,My on-the-job learning opportunities
+981,2,My daily expenses,1,The number of hours  I work
+982,3,My work-life balance,3,Preparing for work and commuting
+983,3,Preparing for work and commuting,3,My opportunities to socialise
+984,3,My work-life balance,2,The number of hours  I work
+985,3,Preparing for work and commuting,2,My work-life balance
+986,3,Managing my family responsibilities,3,My opportunities to socialise
+987,3,My daily expenses,3,My mental wellbeing
+988,2,Preparing for work and commuting,2,My working relationships
+989,2,My job satisfaction,3,My personal relationships
+990,3,My work-life balance,3,My on-the-job learning opportunities
+991,3,Preparing for work and commuting,3,The number of hours  I work
+992,3,My mental wellbeing,2,Preparing for work and commuting
+993,2,My job satisfaction,2,The number of hours  I work
+994,3,Preparing for work and commuting,2,The number of hours  I work
+995,3,Managing my family responsibilities,2,My opportunities to socialise
+996,3,My work-life balance,3,The number of hours  I work
+997,3,Preparing for work and commuting,3,My working relationships
+998,3,Preparing for work and commuting,2,The number of hours  I work
+999,3,My work-life balance,3,My on-the-job learning opportunities
+1000,3,Preparing for work and commuting,3,My opportunities to socialise
+1001,3,Preparing for work and commuting,3,My opportunities to socialise
+1002,3,My work-life balance,2,My working relationships
+1003,3,Preparing for work and commuting,3,My opportunities to socialise
+1004,2,Preparing for work and commuting,3,The number of hours  I work
+1005,3,Preparing for work and commuting,3,My daily expenses
+1006,2,Preparing for work and commuting,2,My opportunities to socialise
+1007,3,The number of hours  I work,2,My work-life balance
+1008,3,The number of hours  I work,2,My on-the-job learning opportunities
+1009,3,Preparing for work and commuting,3,My opportunities to socialise
+1010,3,My personal relationships,3,My on-the-job learning opportunities
+1011,3,My mental wellbeing,3,Managing my family responsibilities
+1012,3,Preparing for work and commuting,2,My working relationships
+1013,1,The number of hours  I work,1,The number of hours  I work
+1014,3,The number of hours  I work,3,My working relationships
+1015,3,Preparing for work and commuting,2,My opportunities to socialise
+1016,1,My work-life balance,2,The number of hours  I work
+1017,3,My on-the-job learning opportunities,3,My work-life balance
+1018,3,My job satisfaction,2,My opportunities to socialise
+1019,3,My job satisfaction,3,My on-the-job learning opportunities
+1020,2,My daily expenses,2,My working relationships
+1021,3,Preparing for work and commuting,3,My opportunities to socialise
+1022,3,My work-life balance,2,My opportunities to socialise
+1023,3,My daily expenses,2,My on-the-job learning opportunities
+1024,2,My opportunities to socialise,2,My work-life balance
+1025,2,My work-life balance,3,My job satisfaction
+1026,2,My opportunities to socialise,2,Managing my family responsibilities
+1027,3,Preparing for work and commuting,3,The number of hours  I work
+1028,3,Preparing for work and commuting,3,My mental wellbeing
+1029,3,My mental wellbeing,3,My opportunities to socialise
+1030,3,My work-life balance,3,My mental wellbeing
+1031,3,My work-life balance,3,My opportunities to socialise
+1032,2,My work-life balance,3,My on-the-job learning opportunities
+1033,2,The number of hours  I work,2,My work-life balance
+1034,3,My work-life balance,3,My mental wellbeing
+1035,3,My job satisfaction,2,My personal relationships
+1036,3,Managing my family responsibilities,3,My working relationships
+1037,2,Preparing for work and commuting,3,My opportunities to socialise
+1038,2,My mental wellbeing,1,My work-life balance
+1039,3,My daily expenses,3,My working relationships
+1040,2,My work-life balance,2,My working relationships
+1041,3,My personal relationships,3,The number of hours  I work
+1042,2,Preparing for work and commuting,3,The number of hours  I work
+1043,2,My work-life balance,1,My working relationships
+1044,3,Preparing for work and commuting,3,My opportunities to socialise
+1045,3,Managing my personal commitments,3,My opportunities to socialise
+1046,3,My work-life balance,2,My working relationships
+1047,3,My work-life balance,2,The number of hours  I work
+1048,3,My work-life balance,3,My on-the-job learning opportunities
+1049,3,Preparing for work and commuting,2,My opportunities to socialise
+1050,1,The number of hours  I work,3,My opportunities to socialise
+1051,3,My mental wellbeing,2,My working relationships
+1052,3,My work-life balance,2,My working relationships
+1053,3,My work-life balance,3,My mental wellbeing
+1054,2,My work-life balance,2,My working relationships
+1055,3,My on-the-job learning opportunities,3,My mental wellbeing
+1056,2,My working relationships,2,The number of hours  I work
+1057,1,The number of hours  I work,2,My work-life balance
+1058,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+1059,3,Preparing for work and commuting,2,My mental wellbeing
+1060,2,Preparing for work and commuting,3,My daily expenses
+1061,2,My job satisfaction,2,My work-life balance
+1062,3,Managing my family responsibilities,2,My personal relationships
+1063,3,Preparing for work and commuting,3,The number of hours  I work
+1064,2,The number of hours  I work,2,My on-the-job learning opportunities
+1065,3,My work-life balance,2,Preparing for work and commuting
+1066,2,My daily expenses,3,Managing my family responsibilities
+1067,1,Preparing for work and commuting,2,My daily expenses
+1068,1,Preparing for work and commuting,2,My on-the-job learning opportunities
+1069,3,Preparing for work and commuting,3,My work-life balance
+1070,2,My work-life balance,1,The number of hours  I work
+1071,3,Managing my family responsibilities,2,My mental wellbeing
+1072,2,My job satisfaction,2,My working relationships
+1073,2,Managing my personal commitments,1,The number of hours  I work
+1074,3,My daily expenses,3,My opportunities to socialise
+1075,1,Preparing for work and commuting,2,The number of hours  I work
+1076,2,Preparing for work and commuting,3,My on-the-job learning opportunities
+1077,3,Managing my personal commitments,2,My working relationships
+1078,3,My daily expenses,3,My opportunities to socialise
+1079,3,Managing my family responsibilities,2,The number of hours  I work
+1080,3,My work-life balance,3,My opportunities to socialise
+1081,3,Managing my family responsibilities,3,My working relationships
+1082,2,My personal relationships,2,My job satisfaction
+1083,3,My daily expenses,3,My on-the-job learning opportunities
+1084,3,My work-life balance,2,My working relationships
+1085,2,My work-life balance,3,My daily expenses
+1086,3,Managing my family responsibilities,2,My opportunities to socialise
+1087,2,My working relationships,2,Preparing for work and commuting
+1088,3,Preparing for work and commuting,2,My work-life balance
+1089,3,Preparing for work and commuting,2,My working relationships
+1090,2,The number of hours  I work,3,Managing my family responsibilities
+1091,3,My work-life balance,3,My opportunities to socialise
+1092,2,My opportunities to socialise,1,The number of hours  I work
+1093,3,My work-life balance,3,My working relationships
+1094,2,My work-life balance,2,My on-the-job learning opportunities
+1095,3,Managing my personal commitments,3,My opportunities to socialise
+1096,2,My working relationships,2,My daily expenses
+1097,2,My work-life balance,2,The number of hours  I work
+1098,3,Managing my personal commitments,3,My opportunities to socialise
+1099,2,My personal relationships,1,Preparing for work and commuting
+1100,2,My daily expenses,2,My mental wellbeing
+1101,3,Managing my family responsibilities,3,My opportunities to socialise
+1102,2,My mental wellbeing,3,My job satisfaction
+1103,3,Preparing for work and commuting,3,My opportunities to socialise
+1104,3,Preparing for work and commuting,3,The number of hours  I work
+1105,3,Managing my family responsibilities,2,My working relationships
+1106,3,Managing my family responsibilities,3,My working relationships
+1107,3,My work-life balance,3,My mental wellbeing
+1108,2,Preparing for work and commuting,1,My working relationships
+1109,3,My job satisfaction,2,Managing my personal commitments
+1110,1,The number of hours  I work,2,My daily expenses
+1111,2,Preparing for work and commuting,2,Managing my personal commitments
+1112,2,Preparing for work and commuting,2,My working relationships
+1113,1,My work-life balance,3,My daily expenses
+1114,3,My work-life balance,3,My opportunities to socialise
+1115,3,My work-life balance,3,Managing my personal commitments
+1116,2,My on-the-job learning opportunities,2,My personal relationships
+1117,3,Preparing for work and commuting,2,My opportunities to socialise
+1118,3,Managing my personal commitments,2,The number of hours  I work
+1119,2,My daily expenses,2,My personal relationships
+1120,3,Preparing for work and commuting,2,My working relationships
+1121,2,My opportunities to socialise,2,My on-the-job learning opportunities
+1122,2,My work-life balance,3,My opportunities to socialise
+1123,2,Managing my family responsibilities,2,My job satisfaction
+1124,2,My work-life balance,3,The number of hours  I work
+1125,2,Preparing for work and commuting,2,My job satisfaction
+1126,2,My work-life balance,2,My mental wellbeing
+1127,2,My work-life balance,1,The number of hours  I work
+1128,2,Managing my personal commitments,1,My work-life balance
+1129,3,My job satisfaction,2,My on-the-job learning opportunities
+1130,1,The number of hours  I work,2,My work-life balance
+1131,2,The number of hours  I work,2,Managing my personal commitments
+1132,2,My work-life balance,2,My working relationships
+1133,3,Managing my personal commitments,3,My opportunities to socialise
+1134,2,Preparing for work and commuting,3,My on-the-job learning opportunities
+1135,3,Preparing for work and commuting,3,The number of hours  I work
+1136,3,My work-life balance,3,My on-the-job learning opportunities
+1137,3,Managing my family responsibilities,3,My opportunities to socialise
+1138,3,My personal relationships,1,Preparing for work and commuting
+1139,3,My work-life balance,3,My daily expenses
+1140,3,My personal relationships,3,My opportunities to socialise
+1141,1,The number of hours  I work,2,Preparing for work and commuting
+1142,2,My mental wellbeing,2,My working relationships
+1143,2,Preparing for work and commuting,2,My mental wellbeing
+1144,2,My personal relationships,2,Preparing for work and commuting
+1145,3,My daily expenses,3,My mental wellbeing
+1146,3,Preparing for work and commuting,2,My working relationships
+1147,3,My work-life balance,3,My mental wellbeing
+1148,3,Preparing for work and commuting,3,My working relationships
+1149,3,My work-life balance,3,My on-the-job learning opportunities
+1150,3,My work-life balance,2,The number of hours  I work
+1151,2,My opportunities to socialise,2,My working relationships
+1152,2,Preparing for work and commuting,2,My on-the-job learning opportunities
+1153,3,Managing my personal commitments,1,The number of hours  I work
+1154,3,The number of hours  I work,3,My daily expenses
+1155,3,My personal relationships,3,The number of hours  I work
+1156,1,Preparing for work and commuting,2,Managing my family responsibilities
+1157,3,My on-the-job learning opportunities,2,My mental wellbeing
+1158,2,My mental wellbeing,2,The number of hours  I work
+1159,3,My work-life balance,2,My on-the-job learning opportunities
+1160,3,My job satisfaction,3,My daily expenses
+1161,2,My daily expenses,3,My on-the-job learning opportunities
+1162,3,My daily expenses,3,My opportunities to socialise
+1163,1,The number of hours  I work,2,My work-life balance
+1164,2,The number of hours  I work,3,My working relationships
+1165,2,Preparing for work and commuting,2,My daily expenses
+1166,3,Preparing for work and commuting,2,My working relationships
+1167,3,My work-life balance,3,My working relationships
+1168,2,My work-life balance,3,My on-the-job learning opportunities
+1169,2,The number of hours  I work,3,My working relationships
+1170,3,My working relationships,3,My mental wellbeing
+1171,2,Preparing for work and commuting,3,The number of hours  I work
+1172,3,My work-life balance,3,My job satisfaction
+1173,3,Preparing for work and commuting,3,My personal relationships
+1174,2,My working relationships,2,Managing my family responsibilities
+1175,2,Managing my family responsibilities,2,The number of hours  I work
+1176,3,My job satisfaction,2,My working relationships
+1177,2,Preparing for work and commuting,2,My daily expenses
+1178,1,Preparing for work and commuting,2,My opportunities to socialise
+1179,2,My personal relationships,2,My working relationships
+1180,2,Preparing for work and commuting,2,My personal relationships
+1181,3,Preparing for work and commuting,2,My working relationships
+1182,2,My mental wellbeing,3,My working relationships
+1183,2,My work-life balance,2,Preparing for work and commuting
+1184,3,Preparing for work and commuting,3,The number of hours  I work
+1185,2,My opportunities to socialise,2,The number of hours  I work
+1186,2,The number of hours  I work,2,My daily expenses
+1187,3,Preparing for work and commuting,3,My opportunities to socialise
+1188,2,The number of hours  I work,2,Managing my personal commitments
+1189,3,Managing my family responsibilities,2,My working relationships
+1190,3,My personal relationships,2,My work-life balance
+1191,3,My personal relationships,2,My opportunities to socialise
+1192,3,My mental wellbeing,3,Preparing for work and commuting
+1193,2,My daily expenses,2,My working relationships
+1194,2,My working relationships,2,My daily expenses
+1195,3,Preparing for work and commuting,2,My work-life balance
+1196,3,My work-life balance,3,My job satisfaction
+1197,2,My work-life balance,3,My opportunities to socialise
+1198,3,The number of hours  I work,2,My working relationships
+1199,3,Preparing for work and commuting,2,My work-life balance
+1200,2,The number of hours  I work,2,My work-life balance
+1201,2,My work-life balance,1,The number of hours  I work
+1202,3,Preparing for work and commuting,3,My opportunities to socialise
+1203,2,My opportunities to socialise,2,The number of hours  I work
+1204,2,My working relationships,2,Managing my family responsibilities
+1205,3,Preparing for work and commuting,2,My opportunities to socialise
+1206,2,My work-life balance,3,The number of hours  I work
+1207,2,My personal relationships,3,My on-the-job learning opportunities
+1208,2,My on-the-job learning opportunities,3,My work-life balance
+1209,3,My working relationships,3,Managing my family responsibilities
+1210,3,My mental wellbeing,2,My opportunities to socialise
+1211,2,My work-life balance,2,My job satisfaction
+1212,2,My job satisfaction,2,My opportunities to socialise
+1213,2,My opportunities to socialise,1,The number of hours  I work
+1214,3,The number of hours  I work,3,My opportunities to socialise
+1215,2,My mental wellbeing,1,The number of hours  I work
+1216,3,Preparing for work and commuting,2,My mental wellbeing
+1217,2,My work-life balance,3,Preparing for work and commuting
+1218,2,My mental wellbeing,2,My on-the-job learning opportunities
+1219,3,Preparing for work and commuting,3,The number of hours  I work
+1220,3,Managing my personal commitments,2,My on-the-job learning opportunities
+1221,2,My mental wellbeing,2,My opportunities to socialise
+1222,2,Managing my personal commitments,2,My daily expenses
+1223,3,My working relationships,2,My mental wellbeing
+1224,2,The number of hours  I work,3,My daily expenses
+1225,2,My mental wellbeing,2,Managing my family responsibilities
+1226,2,My job satisfaction,2,My working relationships
+1227,2,My daily expenses,1,My personal relationships
+1228,2,My daily expenses,3,My mental wellbeing
+1229,3,My job satisfaction,2,My opportunities to socialise
+1230,2,My on-the-job learning opportunities,1,Preparing for work and commuting
+1231,1,Preparing for work and commuting,3,My daily expenses
+1232,2,The number of hours  I work,2,My opportunities to socialise
+1233,2,The number of hours  I work,2,My opportunities to socialise
+1234,2,My work-life balance,3,My opportunities to socialise
+1235,3,My work-life balance,3,My working relationships
+1236,2,My work-life balance,2,Managing my personal commitments
+1237,3,Preparing for work and commuting,3,My mental wellbeing
+1238,2,My job satisfaction,2,My opportunities to socialise
+1239,3,My mental wellbeing,3,Managing my family responsibilities
+1240,2,My daily expenses,2,My opportunities to socialise
+1241,3,My work-life balance,2,My opportunities to socialise
+1242,3,The number of hours  I work,3,My working relationships
+1243,2,My job satisfaction,2,My personal relationships
+1244,3,My work-life balance,3,My on-the-job learning opportunities
+1245,3,My job satisfaction,3,My daily expenses
+1246,3,My mental wellbeing,3,My daily expenses
+1247,2,My work-life balance,3,My on-the-job learning opportunities
+1248,1,The number of hours  I work,2,My on-the-job learning opportunities
+1249,2,My personal relationships,2,Managing my family responsibilities
+1250,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+1251,2,My work-life balance,2,My daily expenses
+1252,2,My on-the-job learning opportunities,2,My opportunities to socialise
+1253,2,My work-life balance,3,My opportunities to socialise
+1254,2,My daily expenses,2,Preparing for work and commuting
+1255,2,My opportunities to socialise,2,Preparing for work and commuting
+1256,3,Preparing for work and commuting,3,My working relationships
+1257,2,My on-the-job learning opportunities,2,My job satisfaction
+1258,3,Preparing for work and commuting,2,My working relationships
+1259,2,Preparing for work and commuting,3,The number of hours  I work
+1260,2,My daily expenses,2,My personal relationships
+1261,1,The number of hours  I work,2,My personal relationships
+1262,3,Preparing for work and commuting,3,My work-life balance
+1263,2,Managing my family responsibilities,3,My working relationships
+1264,2,The number of hours  I work,2,My daily expenses
+1265,3,Preparing for work and commuting,3,Managing my family responsibilities
+1266,1,My work-life balance,3,My daily expenses
+1267,3,My job satisfaction,2,My opportunities to socialise
+1268,1,The number of hours  I work,2,My daily expenses
+1269,2,Preparing for work and commuting,2,My mental wellbeing
+1270,3,My work-life balance,3,My daily expenses
+1271,2,My opportunities to socialise,2,Managing my personal commitments
+1272,2,Preparing for work and commuting,2,My working relationships
+1273,3,Managing my family responsibilities,3,My daily expenses
+1274,2,My work-life balance,2,The number of hours  I work
+1275,2,My daily expenses,3,My working relationships
+1276,3,Preparing for work and commuting,2,The number of hours  I work
+1277,3,My work-life balance,3,My opportunities to socialise
+1278,2,Managing my personal commitments,2,My working relationships
+1279,2,My mental wellbeing,2,My daily expenses
+1280,3,Preparing for work and commuting,3,My mental wellbeing
+1281,2,My personal relationships,2,Managing my family responsibilities
+1282,3,My work-life balance,3,My opportunities to socialise
+1283,3,My job satisfaction,1,The number of hours  I work
+1284,2,My on-the-job learning opportunities,2,Preparing for work and commuting
+1285,3,My work-life balance,3,My opportunities to socialise
+1286,2,Preparing for work and commuting,3,My opportunities to socialise
+1287,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+1288,3,Preparing for work and commuting,3,The number of hours  I work
+1289,1,My working relationships,2,My work-life balance
+1290,2,My work-life balance,3,My opportunities to socialise
+1291,3,My work-life balance,2,The number of hours  I work
+1292,3,Managing my family responsibilities,3,My mental wellbeing
+1293,2,Managing my personal commitments,2,My working relationships
+1294,2,Preparing for work and commuting,2,My opportunities to socialise
+1295,3,My daily expenses,2,My work-life balance
+1296,2,The number of hours  I work,2,My mental wellbeing
+1297,2,My on-the-job learning opportunities,2,My daily expenses
+1298,2,Preparing for work and commuting,3,Managing my family responsibilities
+1299,2,My opportunities to socialise,2,Preparing for work and commuting
+1300,2,My job satisfaction,1,The number of hours  I work
+1301,1,Preparing for work and commuting,1,Preparing for work and commuting
+1302,3,My work-life balance,3,My working relationships
+1303,3,Preparing for work and commuting,2,My working relationships
+1304,2,My working relationships,1,The number of hours  I work
+1305,3,Preparing for work and commuting,3,My working relationships
+1306,2,Preparing for work and commuting,2,My on-the-job learning opportunities
+1307,2,The number of hours  I work,3,Preparing for work and commuting
+1308,3,My opportunities to socialise,2,Preparing for work and commuting
+1309,2,My work-life balance,3,My opportunities to socialise
+1310,2,My work-life balance,3,My opportunities to socialise
+1311,2,The number of hours  I work,1,Preparing for work and commuting
+1312,3,My daily expenses,2,My opportunities to socialise
+1313,3,Preparing for work and commuting,3,My working relationships
+1314,3,My daily expenses,2,My work-life balance
+1315,2,My daily expenses,2,The number of hours  I work
+1316,3,My working relationships,2,My personal relationships
+1317,3,My work-life balance,3,My mental wellbeing
+1318,3,My work-life balance,3,My opportunities to socialise
+1319,2,The number of hours  I work,3,My on-the-job learning opportunities
+1320,2,Managing my family responsibilities,3,My working relationships
+1321,3,Managing my family responsibilities,2,Preparing for work and commuting
+1322,2,My opportunities to socialise,3,My work-life balance
+1323,3,Managing my family responsibilities,3,My job satisfaction
+1324,3,Managing my family responsibilities,2,My work-life balance
+1325,3,My work-life balance,3,My on-the-job learning opportunities
+1326,3,My work-life balance,3,The number of hours  I work
+1327,3,Managing my family responsibilities,2,My opportunities to socialise
+1328,2,My mental wellbeing,2,My opportunities to socialise
+1329,3,Managing my personal commitments,3,My working relationships
+1330,2,My on-the-job learning opportunities,2,My daily expenses
+1331,3,My work-life balance,2,My personal relationships
+1332,3,My work-life balance,3,My opportunities to socialise
+1333,3,Preparing for work and commuting,2,My personal relationships
+1334,2,My job satisfaction,2,My daily expenses
+1335,3,My work-life balance,3,Managing my personal commitments
+1336,3,My work-life balance,3,My on-the-job learning opportunities
+1337,1,Preparing for work and commuting,2,Preparing for work and commuting
+1338,3,My work-life balance,2,My opportunities to socialise
+1339,3,My work-life balance,3,My working relationships
+1340,2,Managing my family responsibilities,2,Preparing for work and commuting
+1341,2,My work-life balance,2,My working relationships
+1342,2,The number of hours  I work,2,My work-life balance
+1343,2,The number of hours  I work,2,My work-life balance
+1344,3,My work-life balance,3,My mental wellbeing
+1345,3,Preparing for work and commuting,3,My working relationships
+1346,3,My work-life balance,3,My working relationships
+1347,1,Preparing for work and commuting,1,Preparing for work and commuting
+1348,3,My work-life balance,3,My on-the-job learning opportunities
+1349,2,My work-life balance,3,My mental wellbeing
+1350,2,My work-life balance,3,My working relationships
+1351,3,My work-life balance,3,My working relationships
+1352,3,My work-life balance,3,My daily expenses
+1353,3,Preparing for work and commuting,2,My daily expenses
+1354,3,Managing my family responsibilities,3,My on-the-job learning opportunities
+1355,3,My work-life balance,3,My on-the-job learning opportunities
+1356,3,My work-life balance,2,My working relationships
+1357,3,My job satisfaction,2,My working relationships
+1358,2,Preparing for work and commuting,3,My working relationships
+1359,1,My work-life balance,2,The number of hours  I work
+1360,1,Preparing for work and commuting,1,The number of hours  I work
+1361,2,My mental wellbeing,3,My opportunities to socialise
+1362,3,My work-life balance,2,My opportunities to socialise
+1363,2,Preparing for work and commuting,2,My working relationships
+1364,3,Preparing for work and commuting,2,The number of hours  I work
+1365,2,My personal relationships,2,My working relationships
+1366,2,The number of hours  I work,2,My work-life balance
+1367,2,My personal relationships,2,Preparing for work and commuting
+1368,3,Preparing for work and commuting,3,The number of hours  I work
+1369,2,Managing my personal commitments,3,My working relationships
+1370,3,My daily expenses,2,Preparing for work and commuting
+1371,3,My daily expenses,3,The number of hours  I work
+1372,3,Preparing for work and commuting,3,My on-the-job learning opportunities
+1373,2,My work-life balance,2,The number of hours  I work
+1374,3,My mental wellbeing,3,My working relationships
+1375,3,My mental wellbeing,3,My job satisfaction
+1376,1,Preparing for work and commuting,2,The number of hours  I work
+1377,2,Managing my family responsibilities,3,My daily expenses
+1378,2,Managing my family responsibilities,2,My job satisfaction
+1379,3,Preparing for work and commuting,3,My mental wellbeing
+1380,3,My daily expenses,2,My on-the-job learning opportunities
+1381,2,Managing my personal commitments,2,My working relationships
+1382,2,Preparing for work and commuting,2,My working relationships
+1383,1,Preparing for work and commuting,2,Preparing for work and commuting
+1384,2,The number of hours  I work,3,My mental wellbeing
+1385,3,My work-life balance,3,My working relationships
+1386,3,Managing my family responsibilities,2,My on-the-job learning opportunities
+1387,2,My daily expenses,3,My opportunities to socialise
+1388,3,Preparing for work and commuting,3,My daily expenses
+1389,3,My work-life balance,2,My mental wellbeing
+1390,2,My work-life balance,2,My opportunities to socialise
+1391,2,My mental wellbeing,2,My work-life balance
+1392,2,My daily expenses,2,My working relationships
+1393,3,Preparing for work and commuting,2,My working relationships
+1394,2,Preparing for work and commuting,3,My personal relationships
+1395,3,Preparing for work and commuting,3,My working relationships
+1396,3,Managing my personal commitments,2,My work-life balance
+1397,3,Preparing for work and commuting,2,My job satisfaction
+1398,3,My work-life balance,1,The number of hours  I work
+1399,3,My work-life balance,2,My on-the-job learning opportunities
+1400,3,My work-life balance,3,My working relationships
+1401,3,My opportunities to socialise,3,My daily expenses
+1402,3,My on-the-job learning opportunities,3,My working relationships
+1403,3,Preparing for work and commuting,3,My daily expenses
+1404,3,My mental wellbeing,3,My daily expenses
+1405,3,The number of hours  I work,3,Managing my family responsibilities
+1406,1,Preparing for work and commuting,1,Preparing for work and commuting
+1407,2,The number of hours  I work,2,Preparing for work and commuting
+1408,3,Managing my personal commitments,2,My work-life balance
+1409,3,My personal relationships,3,My daily expenses
+1410,2,My work-life balance,2,The number of hours  I work
+1411,2,My work-life balance,2,Preparing for work and commuting
+1412,3,Managing my family responsibilities,3,My working relationships
+1413,3,My personal relationships,3,My job satisfaction
+1414,3,My work-life balance,3,My working relationships
+1415,2,My on-the-job learning opportunities,2,My working relationships
+1416,2,My job satisfaction,2,The number of hours  I work
+1417,2,My work-life balance,2,Preparing for work and commuting
+1418,2,The number of hours  I work,2,Preparing for work and commuting
+1419,3,Preparing for work and commuting,3,Managing my family responsibilities
+1420,3,Preparing for work and commuting,2,Managing my family responsibilities
+1421,2,My mental wellbeing,2,Preparing for work and commuting
+1422,2,My work-life balance,3,My working relationships
+1423,2,Managing my family responsibilities,1,Preparing for work and commuting
+1424,2,The number of hours  I work,3,My mental wellbeing
+1425,2,The number of hours  I work,1,The number of hours  I work
+1426,3,My work-life balance,2,Managing my family responsibilities
+1427,2,My work-life balance,3,My personal relationships
+1428,2,Managing my personal commitments,3,My working relationships
+1429,3,Managing my family responsibilities,3,Preparing for work and commuting
+1430,3,Preparing for work and commuting,3,My job satisfaction
+1431,2,Preparing for work and commuting,3,My daily expenses
+1432,2,My mental wellbeing,2,My daily expenses
+1433,3,My work-life balance,2,My mental wellbeing
+1434,3,My daily expenses,3,The number of hours  I work
+1435,2,My job satisfaction,2,My work-life balance
+1436,2,My personal relationships,2,My opportunities to socialise
+1437,1,The number of hours  I work,1,The number of hours  I work
+1438,2,My work-life balance,1,The number of hours  I work
+1439,3,My working relationships,3,Managing my family responsibilities
+1440,2,Managing my personal commitments,3,My job satisfaction
+1441,2,Managing my personal commitments,2,My mental wellbeing
+1442,2,My job satisfaction,2,Managing my personal commitments
+1443,3,My mental wellbeing,3,My on-the-job learning opportunities
+1444,3,My work-life balance,2,My opportunities to socialise
+1445,2,Preparing for work and commuting,2,The number of hours  I work
+1446,3,Managing my family responsibilities,3,My personal relationships
+1447,3,My work-life balance,2,The number of hours  I work
+1448,3,My daily expenses,3,The number of hours  I work
+1449,3,My work-life balance,1,My working relationships
+1450,2,My daily expenses,2,Managing my personal commitments
+1451,1,The number of hours  I work,2,My daily expenses
+1452,3,My daily expenses,1,Preparing for work and commuting
+1453,3,My work-life balance,2,The number of hours  I work
+1454,2,My working relationships,3,Preparing for work and commuting
+1455,2,My mental wellbeing,2,My opportunities to socialise
+1456,1,The number of hours  I work,3,My work-life balance
+1457,3,My daily expenses,3,My job satisfaction
+1458,3,My job satisfaction,3,My working relationships
+1459,2,My personal relationships,3,Preparing for work and commuting
+1460,1,Preparing for work and commuting,1,The number of hours  I work
+1461,3,Managing my family responsibilities,3,My daily expenses
+1462,3,Managing my family responsibilities,3,My job satisfaction
+1463,2,Preparing for work and commuting,2,My working relationships
+1464,3,My on-the-job learning opportunities,3,The number of hours  I work
+1465,2,Managing my personal commitments,1,Preparing for work and commuting
+1466,3,Preparing for work and commuting,3,Managing my family responsibilities
+1467,2,Preparing for work and commuting,3,Managing my family responsibilities
+1468,2,My work-life balance,2,My daily expenses
+1469,2,The number of hours  I work,3,My job satisfaction
+1470,2,The number of hours  I work,2,Managing my personal commitments
+1471,2,My work-life balance,2,My mental wellbeing
+1472,3,My work-life balance,3,My working relationships
+1473,3,My work-life balance,3,The number of hours  I work
+1474,2,The number of hours  I work,2,My job satisfaction
+1475,1,Preparing for work and commuting,2,My job satisfaction
+1476,3,Managing my personal commitments,3,The number of hours  I work
+1477,2,The number of hours  I work,3,My work-life balance
+1478,3,Preparing for work and commuting,2,My job satisfaction
+1479,3,My daily expenses,3,The number of hours  I work
+1480,2,My working relationships,1,The number of hours  I work
+1481,2,My work-life balance,3,My opportunities to socialise
+1482,2,My work-life balance,1,The number of hours  I work
+1483,1,Preparing for work and commuting,2,My working relationships
+1484,3,My opportunities to socialise,2,My mental wellbeing
+1485,3,My work-life balance,3,My on-the-job learning opportunities
+1486,3,My daily expenses,2,My mental wellbeing
+1487,2,My work-life balance,2,Preparing for work and commuting
+1488,2,The number of hours  I work,3,My working relationships
+1489,3,My work-life balance,3,Managing my family responsibilities
+1490,2,My work-life balance,3,My personal relationships
+1491,3,My personal relationships,2,Managing my family responsibilities
+1492,3,Managing my family responsibilities,3,My opportunities to socialise
+1493,3,The number of hours  I work,2,My job satisfaction
+1494,3,My working relationships,3,Managing my family responsibilities
+1495,2,My work-life balance,1,The number of hours  I work
+1496,2,My work-life balance,3,My opportunities to socialise
+1497,2,My mental wellbeing,1,The number of hours  I work
+1498,1,Preparing for work and commuting,1,The number of hours  I work
+1499,2,My work-life balance,3,My opportunities to socialise
+1500,3,My personal relationships,3,My job satisfaction
+1501,3,My job satisfaction,2,The number of hours  I work
+1502,3,The number of hours  I work,2,My mental wellbeing
+1503,2,My opportunities to socialise,2,My work-life balance
+1504,2,Managing my family responsibilities,2,My personal relationships
+1505,2,My job satisfaction,2,Managing my family responsibilities
+1506,3,My on-the-job learning opportunities,3,The number of hours  I work
+1507,2,My job satisfaction,3,My working relationships
